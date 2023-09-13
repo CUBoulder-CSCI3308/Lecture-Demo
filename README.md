@@ -1,6 +1,4 @@
-# Lecture-Demo
-
-#### Activity
+# Lecture-Activity
 
 We will use this repository to practice basic git commands and learn about branches.
 
