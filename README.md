@@ -4,7 +4,7 @@
 
 We will use this repository to practice basic git commands and learn about branches.
 
-1. Glone the repository.
+1. Clone the repository.
 2. Explore the configuration of the git repository.
 3. Create a branch with your name. See the changes in the config file.
 4. Edit practice.cpp and implement any 1 function of your choice and make a call to it in the main() function.
